@@ -10,7 +10,7 @@ const router = express();
 
 router.use(
 	session({
-	  secret: "55CWSa21QbGeNxiJX3HngI7gm_F5bEGiZMGDu5rcUlDqILu1K9q_m4wDHDX3Prk84xurn9gyZgVIr",
+	  secret: "UDSDlzjSxm9q41x9cLdCzFgNMCakoNCA",
 	  resave: false,
 	  saveUninitialized: false
 	})
