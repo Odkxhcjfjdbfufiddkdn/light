@@ -3,8 +3,8 @@ const router = require('express').Router();
 const passport = require('passport');
 
 passport.use(new Strategy({
-	clientID: "789918433495875584",
-	clientSecret: "gmJewO0fd_bbQ89_guQ31SxP1gmJcijL",
+	clientID: "1173295172759605259",
+	clientSecret: "UDSDlzjSxm9q41x9cLdCzFgNMCakoNCA",
 	callbackURL: "https://api.lightbot.me/auth/callback",
 	scope: [ "identify", "guilds" ]
 }, (accessToken, refreshToken, profile, done) => {
