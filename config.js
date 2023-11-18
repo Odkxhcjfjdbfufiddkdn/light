@@ -1,8 +1,8 @@
 module.exports = {
-  token: ""
+  token: "MTE3MzI5NTE3Mjc1OTYwNTI1OQ.GPcpGT.mOdacDe5a-25KJnKKPId4UbAnpU5gk2f_M86w4",
   prefix: '!',
   developers: [ "451444721089380373", "714451348212678658", "852606013126606908" ],
-  mongourl: "mongodb+srv://partner:lightpartner.kahrolsundarkpartner@cluster0.hppwm.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  mongourl: "mongodb+srv://ariaa:<ariaa>@cluster0.itvw5ul.mongodb.net/?retryWrites=true&w=majority",
   links: {
     support: "https://discord.gg/C4t6dkhBYN"
   },
