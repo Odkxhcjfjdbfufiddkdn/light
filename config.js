@@ -1,6 +1,6 @@
 module.exports = {
-  token: "MTE3MzI5NTE3Mjc1OTYwNTI1OQ.GPcpGT.mOdacDe5a-25KJnKKPId4UbAnpU5gk2f_M86w4",
-  prefix: '!',
+  token: "MTE3MzI5NTE3Mjc1OTYwNTI1OQ.G1usrM.mQUPwP_KhZqYYjXX5Miuz2b_vG48PXQ0m6uB-k",
+  prefix: "!",
   developers: [ "451444721089380373", "714451348212678658", "852606013126606908" ],
   mongourl: "mongodb+srv://ariaa:<ariaa>@cluster0.itvw5ul.mongodb.net/?retryWrites=true&w=majority",
   links: {
